@@ -12,7 +12,7 @@ Notenziele:
 
 
 ## 02.05.2025	
-- [ ] 
+- [ ] Contact section responsive machen
 ## 09.05.2025	
 
 ## 6.05.2025	
@@ -27,4 +27,4 @@ Notenziele:
 
 ## 20.06.2025	
 
-##27.06.2025
+## 27.06.2025
