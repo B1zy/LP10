@@ -5,7 +5,7 @@
 Ich möchte [meine Portfoliowebseite](https://github.com/B1zy/PortfolioWebseiteReact) auf Github pages hosten, umbauen und verbessern, damit es ready ist für meine Bewerbung.
 
 Notenziele:  
-- [ ] M259: 5.5
+- [x] M259: 5.5 (erriecht: 6)
 - [ ] M165: 5.5 
 - [ ] M254: 5.5
 - [ ] M306: 5.5
