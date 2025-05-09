@@ -12,9 +12,9 @@ Notenziele:
 
 
 ## 02.05.2025	
-- [ ] Contact section responsive machen
+- [x] Contact section responsive machen
 ## 09.05.2025	
-
+- [ ] Text überarbeiten(ohne dokummentation)
 ## 6.05.2025	
 
 ## 23.05.2025	
