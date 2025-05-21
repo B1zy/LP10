@@ -15,13 +15,13 @@ Notenziele:
 - [x] Contact section responsive machen
 ## 09.05.2025	
 - [x] Text überarbeiten(ohne dokummentation)
-## 6.05.2025	
-- [ ] krank, deshalb werde ich aufträge von modulen 254 und 165 nachholen 
+## 16.05.2025	
+- [ ] krank, deshalb werde ich aufträge von modulen 254 und 165 am 23.05 nachholen 
+
+## 23.05.2025	
 - [ ] LA165_6433
 - [ ] LA165_6434
 - [ ] M254_HZ2 
-## 23.05.2025	
-
 ## 30.05.2025	
 
 ## 06.06.2025	
