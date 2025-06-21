@@ -29,5 +29,5 @@ Notenziele:
 ## 13.06.2025	
 - [ ] LB165 finish hz5 start hz6
 ## 20.06.2025	
-
+- [ ] LB 306 dokkumentation vervollständigen
 ## 27.06.2025
